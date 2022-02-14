@@ -1,2 +1,2 @@
-# defi-stake-yield-brownie
+# Defi stake yield brownie
 DeFi learning project 
